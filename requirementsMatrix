@@ -1,0 +1,15 @@
+6. Requirement traceability matrix (RTM)
+A Requirement traceability matrix is used to record and track the relationship of the project requirements to the design, documentation, development, testing, and release of the project/product. This is done by maintaining an excel sheet that lists the complete user and system requirements for the system (in the form of use cases), which are in turn mapped to the respective documents like Functional Requirement, Design Document, Software Module, Test Case Number, etc.
+
+An RTM is maintained throughout the lifecycle of the various releases in a project, and it’s a vital document to track project scope, requirements, and changes in any project.
+
+The Business Requirement Document contains:
+– Requirement ID
+– Requirement Description
+– Functional Requirement
+– Status
+– Architectural/Design Document
+– Technical Specification
+– Software Module
+– Test Case Number
+– Tested In
