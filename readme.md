@@ -11,7 +11,7 @@
 
 [everything figma-frankolious](https://www.figma.com/@frankolious)
 
-[personal access tokens] to pull DATA via API]()
+[personal access tokens to pull DATA via API](https://help.figma.com/hc/en-us/articles/8085703771159-Manage-personal-access-tokens)
 
 ### Misc
 
